@@ -5,7 +5,6 @@ public class Berm {
 		System.out.println("maybe you are right");
 		System.out.println("maybe you are right");
 		System.out.println("maybe you are right");
-		System.out.println("maybe you are right");
 		System.out.println("maybe you are right5");
 	}
 }
